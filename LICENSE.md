@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 MoustyB
+Copyright (c) 2025 Moustyb
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
